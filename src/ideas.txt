@@ -1,0 +1,6 @@
+I would like to implement bitset for storing the bits,
+and then do operations like (bit0 && !bit1) to essentially
+check the same as (bit0 > bit1) since a regular > doesnt work
+
+Make network have a standard array of comparators,
+instead of arraylist.
